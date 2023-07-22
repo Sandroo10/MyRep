@@ -1,0 +1,36 @@
+.central{
+    text-align: center;
+}
+.sum{
+    text-align: center;
+    
+}
+h2{
+    font-size: 50px;
+}
+li{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.edu{
+    text-align: left;
+    width: calc(100%/3);
+    border: 1px solid black;
+}
+.ach{
+    text-align: center;
+    width: calc(100%/3);
+    border: 1px solid black;
+}
+.oth{
+    border: 1px solid black;
+    width: calc(100%/3);
+}
+.container {
+    display: flex; 
+  }
+html{
+    background-color: bisque;
+}
